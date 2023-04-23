@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Андрей Александров</h1>
+<h1 align="center">Привет, меня зовут Андрей</h1>
 <h3 align="center">Студент ВЕБ-разработки на Яндекс Практикуме</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melifaro13&label=Profile%20views&color=0e75b6&style=flat" alt="melifaro13" /> </p>
